@@ -1,0 +1,1 @@
+/home/ubuntu/VIP/articubot_one/launch/camera.launch.py
